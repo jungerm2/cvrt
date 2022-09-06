@@ -19,6 +19,6 @@ This website is made with Jekyll, a [Ruby Gem](https://jekyllrb.com/docs/ruby-10
     ```
     bundle exec jekyll serve
     ```
-6. Now browse to [http://localhost:4000](http://localhost:4000)
+6. Now browse to [http://localhost:4000/cvrt/](http://localhost:4000/cvrt/)
 
 Once code is pushed to the repo, a GitHub action will run, generate the website's source and re-publish it online.  
