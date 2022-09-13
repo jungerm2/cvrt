@@ -9,7 +9,7 @@ This website is made with Jekyll, a [Ruby Gem](https://jekyllrb.com/docs/ruby-10
     ```
 3. Clone this repo and cd to it.
     ```
-    git clone git@github.com:jungerm2/cvrt.git && cd cvrt
+    git clone git@github.com:jungerm2/cvrt.git && cd cvrt/docs
     ```
 4. Install missing gems
     ```

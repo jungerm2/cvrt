@@ -24,10 +24,27 @@
         {%- if site.email -%}
         <p>Any questions? Shoot me <a class="u-email" href="mailto:{{ site.email }}">an email</a>.</p>
         {%- endif -%}
-        <p>{{- site.description | escape -}}</p>
+        <p id="last-modified"></p>
       </div>
     </div>
 
   </div>
-
+  <script>
+    // Adapted from https://ryanfb.github.io/etc/2020/04/27/last_modified_dates_for_github_pages_jekyll_posts.html
+    function setModifiedDate() {
+      if (document.getElementById('last-modified')) {
+        fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path=docs/")
+          .then((response) => {
+            return response.json();
+          })
+          .then((commits) => {
+            let modified = commits[0]['commit']['committer']['date'].slice(0,10);
+            if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
+              document.getElementById('last-modified').textContent = "Last Modified: " + modified;
+            }
+          });
+      }
+    }
+    window.onload = setModifiedDate;
+  </script>
 </footer>
