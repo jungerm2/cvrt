@@ -5,11 +5,11 @@ layout: home
 <h1>About</h1>
 
 <p style="text-align: justify;">
-The UW-Madison Computer Vision Roundtable (CVRT) is a forum where interested students and faculty can come together to discuss recent topics, help students practice qualifying/preliminary exam presentations, or discuss ongoing research in computer vision and related fields. By getting to know colleagues, and learn while doing so, CVRT aims to build a stronger vision community within UW-Madison.
+{{ site.description | escape }}
 </p>
 
 <p style="text-align: justify;">
-We strongly encourage anyone who regularly attends to sign up and lead a session. It’s a great opportunity to practice a talk/poster or other presentation you might have coming up. Some students also use this time to talk about recent research trends, and literature surveys, and/or brainstorm ideas for new projects.  To sign up simply add yourself onto <a href="https://docs.google.com/spreadsheets/d/14O6ktC3slUAM8zMI895m5Pitiq-QgFEOxtuP9723BRE/edit?usp=sharing">the schedule</a>.
+We strongly encourage anyone who regularly attends to sign up and lead a session. It’s a great opportunity to practice a talk/poster or other presentation you might have coming up. Some students also use this time to talk about recent research trends, and literature surveys, and/or brainstorm ideas for new projects.  To sign up simply add yourself onto <a href="https://docs.google.com/spreadsheets/d/14O6ktC3slUAM8zMI895m5Pitiq-QgFEOxtuP9723BRE/edit?usp=sharing">the schedule</a>. 
 </p>
 
 <p>
