@@ -17,7 +17,7 @@ To stay up to date, you can subscribe to our email list by sending an email to <
 </p>
 
 <h1>Schedule</h1>
-<iframe style="height: 190px; width:100%;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS65reRTGgIslNvpmP-kzqKZulxcrnwZ9iJAudDSdmhiHpdY-2FvZVgvgDkmI12WqAaKnAk1GBciEQk/pubhtml?gid=1265224529&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;range=B2:E9">
+<iframe style="height: 190px; width:100%;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS65reRTGgIslNvpmP-kzqKZulxcrnwZ9iJAudDSdmhiHpdY-2FvZVgvgDkmI12WqAaKnAk1GBciEQk/pubhtml?gid=1600825879&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;range=B2:E9">
 </iframe>
 
 <p> Unless otherwise indicated, we will meet every two weeks at 10AM in CS3310. </p>
