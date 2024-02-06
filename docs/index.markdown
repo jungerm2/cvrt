@@ -9,7 +9,7 @@ layout: home
 </p>
 
 <p style="text-align: justify;">
-We strongly encourage anyone who regularly attends to sign up and lead a session. It’s a great opportunity to practice a talk/poster or other presentation you might have coming up. Some students also use this time to talk about recent research trends, and literature surveys, and/or brainstorm ideas for new projects.  To sign up simply add yourself onto <a href="https://docs.google.com/spreadsheets/d/14O6ktC3slUAM8zMI895m5Pitiq-QgFEOxtuP9723BRE/edit?usp=sharing">the schedule</a>. 
+We strongly encourage anyone who regularly attends to sign up and lead a session. It’s a great opportunity to practice a talk/poster or other presentation you might have coming up. Some students also use this time to talk about recent research trends, and literature surveys, and/or brainstorm ideas for new projects.  To sign up simply add yourself to <a href="https://docs.google.com/spreadsheets/d/14O6ktC3slUAM8zMI895m5Pitiq-QgFEOxtuP9723BRE/edit?usp=sharing">the schedule</a>. 
 </p>
 
 <p>

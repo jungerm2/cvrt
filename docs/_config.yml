@@ -20,7 +20,7 @@
 
 title: Computer Vision Roundtable @ UW-Madison 
 description: >- # this means to ignore newlines until "baseurl:"
-  The UW-Madison Computer Vision Roundtable (CVRT) is a forum where interested students and faculty can come together to discuss recent topics, help students practice qualifying/preliminary exam presentations, or discuss ongoing research in computer vision and related fields. By getting to know colleagues, and learn while doing so, CVRT aims to build a stronger vision community within UW-Madison.
+  The UW-Madison Computer Vision Roundtable (CVRT) is a forum where interested students and faculty can come together to discuss recent topics, help students practice qualifying/preliminary exam presentations, or discuss ongoing research in computer vision and related fields. By getting to know colleagues, and learning while doing so, CVRT aims to build a stronger vision community within UW-Madison.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cvrt.cs.wisc.edu" # the base hostname & protocol for your site, e.g. http://example.com
 email: sjungerman@wisc.edu
